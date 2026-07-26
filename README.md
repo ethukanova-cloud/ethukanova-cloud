@@ -1,16 +1,19 @@
-## Hi there 👋
+[![Header](https://github.com/ethukanova-cloud/ekaterinatsukanova/blob/main/assets/Ripe_raspberries_painted_with_br%E2%80%A6_202607261259.jpeg)]
 
-<!--
-**ethukanova-cloud/ethukanova-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior QA Engineer
 
-Here are some ideas to get you started:
+## Languages and Tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jira](https://img.shields.io/badge/Jira-blue?logo=Jira)
+![SQL](https://img.shields.io/badge/SQL-blue?logo=SQL)
+![Postman](https://img.shields.io/badge/Postman-blue?logo=Postman)
+![Fildder](https://img.shields.io/badge/Fildder-blue?logo=Fildder)
+![Charles Proxy](https://img.shields.io/badge/CharlesProxy-blue?logo=CharlesProxy)
+![Figma](https://img.shields.io/badge/Figma-blue?logo=Figma)
+![Git](https://img.shields.io/badge/Git-blue?logo=Git)
+![code.visualstudioo](https://img.shields.io/badge/code.visualstudio-blue?logo=code.visualstudio)
+
+## Follow Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram)](https://t.me/Ekaterina_th)
+[![Gmail](https://img.shields.io/badge/Gmail-blue?logo=Gmail)](https://gmail.com/ethukanova@gmail.com)
