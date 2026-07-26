@@ -16,4 +16,4 @@
 ## Follow Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram)](https://t.me/Ekaterina_th)
-[![Gmail](https://img.shields.io/badge/Gmail-blue?logo=Gmail)](https://gmail.com/ethukanova@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-blue?logo=Gmail)](mailto:ethukanova@gmail.com)
