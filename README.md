@@ -1,8 +1,9 @@
-[![Header](https://github.com/ethukanova-cloud/ekaterinatsukanova/blob/main/assets/Ripe_raspberries_painted_with_br%E2%80%A6_202607261259.jpeg)]
+Обо мне:
+Junior QA-инженер | Ручное тестирование, REST API, SQL, DevTools.
+В поиске стажировки / Junior-позиции.
+![Header](https://github.com/ethukanova-cloud/ekaterinatsukanova/blob/main/assets/Ripe_raspberries_painted_with_br%E2%80%A6_202607261259.jpeg)
 
-## Junior QA Engineer
-
-## Languages and Tool
+## Инструменты которые изучаю
 
 ![Jira](https://img.shields.io/badge/Jira-blue?logo=Jira)
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=SQL)
@@ -13,7 +14,7 @@
 ![Git](https://img.shields.io/badge/Git-blue?logo=Git)
 ![code.visualstudioo](https://img.shields.io/badge/code.visualstudio-blue?logo=code.visualstudio)
 
-## Follow Me
+## Как связаться со сной
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram)](https://t.me/Ekaterina_th)
 [![Gmail](https://img.shields.io/badge/Gmail-blue?logo=Gmail)](mailto:ethukanova@gmail.com)
