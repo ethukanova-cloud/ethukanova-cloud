@@ -1,6 +1,6 @@
 Обо мне:
 Junior QA-инженер | Ручное тестирование, REST API, SQL, DevTools.
-В поиске стажировки / Junior-позиции.  [![Резюме](https://drive.google.com/file/d/15qY6DWj2DY8jMGZmuWlYZjEyhsSDjaHp/view?usp=drive_link)]
+В поиске стажировки / Junior-позиции.  [![Резюме](https://drive.google.com/file/d/15qY6DWj2DY8jMGZmuWlYZjEyhsSDjaHp/view?usp=sharing)]
 ![Header](https://github.com/ethukanova-cloud/ethukanova-cloud/blob/main/assets/Ripe_raspberries_painted_with_br%E2%80%A6_202607261259.jpeg)
 
 ## Инструменты которые изучаю
