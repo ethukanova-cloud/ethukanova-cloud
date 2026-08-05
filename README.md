@@ -8,7 +8,6 @@ Junior QA-инженер | Ручное тестирование, REST API, SQL,
 ![Jira](https://img.shields.io/badge/Jira-blue?logo=Jira)
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=SQL)
 ![Postman](https://img.shields.io/badge/Postman-blue?logo=Postman)
-![Fiddler](https://img.shields.io/badge/Fiddler-blue?logo=Fiddler)
 ![Charles Proxy](https://img.shields.io/badge/CharlesProxy-blue?logo=CharlesProxy)
 ![Figma](https://img.shields.io/badge/Figma-blue?logo=Figma)
 ![Git](https://img.shields.io/badge/Git-blue?logo=Git)
